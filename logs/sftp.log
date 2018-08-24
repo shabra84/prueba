@@ -1,0 +1,761 @@
+Aug 20 07:44:51 10.71.51.0 tmp94561898-4979 Connection from 10.71.51.0 port 21072 on 82.165.80.99 port 22
+Aug 20 07:44:51 10.71.51.0 tmp94561898-4979 Accepted password for tmp94561898-4979 from 10.71.51.0 port 21072 ssh2
+Aug 20 07:44:51 10.71.51.0 tmp94561898-4979 Starting session: subsystem 'sftp' for tmp94561898-4979 from 10.71.51.0 port 21072
+Aug 20 07:44:51 10.71.51.0 tmp94561898-4979 session opened for local user tmp94561898-4979 from [10.71.51.0]
+Aug 20 07:45:27 10.71.51.0 tmp94561898-3661 Connection from 10.71.51.0 port 57468 on 82.165.80.99 port 22
+Aug 20 07:45:27 10.71.51.0 tmp94561898-3661 Accepted password for tmp94561898-3661 from 10.71.51.0 port 57468 ssh2
+Aug 20 07:45:27 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-config.php" flags READ mode 0666
+Aug 20 07:45:27 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-config.php" bytes read 3070 written 0
+Aug 20 07:45:27 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|3070|0|0|0|2f616665617038342f77702d636f6e6669672e706870|]
+Aug 20 07:51:55 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-config.php" flags READ mode 0666
+Aug 20 07:51:55 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-config.php" bytes read 3070 written 0
+Aug 20 07:51:55 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|3070|0|0|0|2f616665617038342f77702d636f6e6669672e706870|]
+Aug 20 08:49:28 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 08:49:28 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 2578 written 0
+Aug 20 08:49:28 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|2578|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 08:50:46 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 08:50:46 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 0 written 2582
+Aug 20 08:50:46 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|2582|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 08:50:54 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 08:50:54 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 947 written 0
+Aug 20 08:50:54 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|947|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 08:51:49 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 08:51:49 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 960
+Aug 20 08:51:49 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|960|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 08:52:10 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 08:52:10 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 960 written 0
+Aug 20 08:52:10 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|960|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 08:52:30 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 08:52:30 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1000
+Aug 20 08:52:30 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1000|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 08:53:23 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 08:53:23 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1000 written 0
+Aug 20 08:53:23 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1000|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 08:53:46 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 08:53:46 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1014
+Aug 20 08:53:46 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1014|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 08:54:14 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 08:54:14 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1014 written 0
+Aug 20 08:54:14 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1014|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 08:55:24 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 08:55:24 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1128
+Aug 20 08:55:24 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1128|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 08:55:38 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 08:55:38 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1128 written 0
+Aug 20 08:55:38 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1128|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 08:56:31 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 08:56:31 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1154
+Aug 20 08:56:31 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1154|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 08:57:11 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 08:57:11 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1154 written 0
+Aug 20 08:57:11 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1154|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 08:57:28 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 08:57:28 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1148
+Aug 20 08:57:28 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1148|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 08:58:39 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/calendario.php" flags READ mode 0666
+Aug 20 08:58:39 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/calendario.php" bytes read 1179 written 0
+Aug 20 08:58:39 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1179|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f63616c656e646172696f2e706870|]
+Aug 20 08:58:55 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 08:58:55 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1148 written 0
+Aug 20 08:58:55 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1148|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 08:59:10 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/calendario.php" flags READ mode 0666
+Aug 20 08:59:10 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/calendario.php" bytes read 1179 written 0
+Aug 20 08:59:10 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1179|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f63616c656e646172696f2e706870|]
+Aug 20 08:59:32 10.71.51.0 tmp94561898-4979 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 20 08:59:32 10.71.51.0 tmp94561898-4979 close "/afeap84/calendario.php" bytes read 5151 written 0
+Aug 20 08:59:32 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|5151|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 20 09:00:16 10.71.51.0 tmp94561898-4979 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:00:16 10.71.51.0 tmp94561898-4979 close "/afeap84/calendario.php" bytes read 0 written 5175
+Aug 20 09:00:16 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|5175|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 20 09:02:48 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 20 09:02:48 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148059 written 0
+Aug 20 09:02:48 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|148059|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:03:05 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:03:05 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148151
+Aug 20 09:03:05 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|148151|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:03:31 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:03:31 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 2582 written 0
+Aug 20 09:03:31 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|2582|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:04:53 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 20 09:04:53 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148151 written 0
+Aug 20 09:04:53 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|148151|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:05:03 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:05:03 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1148 written 0
+Aug 20 09:05:03 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1148|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:05:49 10.71.51.0 tmp94561898-4979 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 20 09:05:49 10.71.51.0 tmp94561898-4979 close "/afeap84/calendario.php" bytes read 5175 written 0
+Aug 20 09:05:49 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|5175|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 20 09:06:25 10.71.51.0 tmp94561898-4979 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:06:25 10.71.51.0 tmp94561898-4979 close "/afeap84/calendario.php" bytes read 0 written 5179
+Aug 20 09:06:25 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|5179|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 20 09:06:35 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:06:35 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1148 written 0
+Aug 20 09:06:35 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1148|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:07:46 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:07:46 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1277
+Aug 20 09:07:46 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1277|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:08:01 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:08:01 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1277 written 0
+Aug 20 09:08:01 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1277|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:08:15 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:08:15 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1283
+Aug 20 09:08:15 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1283|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:08:36 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:08:36 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1283 written 0
+Aug 20 09:08:36 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1283|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:08:58 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:08:58 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1290
+Aug 20 09:08:58 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1290|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:09:22 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:09:22 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1290 written 0
+Aug 20 09:09:22 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1290|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:12:00 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:12:00 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1408
+Aug 20 09:12:00 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1408|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:12:22 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:12:22 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1408 written 0
+Aug 20 09:12:22 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1408|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:12:32 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:12:32 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1408
+Aug 20 09:12:32 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1408|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:12:54 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:12:54 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1408 written 0
+Aug 20 09:12:54 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1408|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:14:06 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:14:06 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1326
+Aug 20 09:14:06 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1326|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:14:24 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:14:24 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1326 written 0
+Aug 20 09:14:24 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1326|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:15:19 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:15:19 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1368
+Aug 20 09:15:19 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1368|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:15:47 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:15:47 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1368 written 0
+Aug 20 09:15:47 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1368|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:16:14 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:16:14 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1465
+Aug 20 09:16:14 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1465|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:16:29 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:16:29 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1465 written 0
+Aug 20 09:16:29 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1465|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:16:54 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:16:54 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1530
+Aug 20 09:16:54 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1530|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:17:09 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:17:09 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1530 written 0
+Aug 20 09:17:09 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1530|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:17:16 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:17:16 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1528
+Aug 20 09:17:16 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1528|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:18:16 10.71.51.0 tmp94561898-4979 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 20 09:18:16 10.71.51.0 tmp94561898-4979 close "/afeap84/calendario.php" bytes read 5179 written 0
+Aug 20 09:18:16 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|5179|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 20 09:18:49 10.71.51.0 tmp94561898-4979 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:18:49 10.71.51.0 tmp94561898-4979 close "/afeap84/calendario.php" bytes read 0 written 5204
+Aug 20 09:18:49 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|5204|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 20 09:19:07 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 20 09:19:07 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148151 written 0
+Aug 20 09:19:07 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|148151|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:19:50 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:19:50 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148127
+Aug 20 09:19:50 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|148127|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:20:31 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 20 09:20:31 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148127 written 0
+Aug 20 09:20:31 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|148127|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:20:44 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:20:44 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148061
+Aug 20 09:20:44 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|148061|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:20:51 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/calendario.php" flags READ mode 0666
+Aug 20 09:20:51 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/calendario.php" bytes read 1179 written 0
+Aug 20 09:20:51 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1179|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f63616c656e646172696f2e706870|]
+Aug 20 09:21:01 10.71.51.0 tmp94561898-4979 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 20 09:21:01 10.71.51.0 tmp94561898-4979 close "/afeap84/calendario.php" bytes read 5204 written 0
+Aug 20 09:21:01 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|5204|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 20 09:21:43 10.71.51.0 tmp94561898-4979 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:21:43 10.71.51.0 tmp94561898-4979 close "/afeap84/calendario.php" bytes read 0 written 5259
+Aug 20 09:21:43 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|5259|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 20 09:23:35 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:23:35 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1528 written 0
+Aug 20 09:23:35 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1528|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:27:14 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:27:14 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1697
+Aug 20 09:27:14 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1697|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:27:39 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:27:39 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1697 written 0
+Aug 20 09:27:39 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1697|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:27:50 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:27:50 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 0 written 1697
+Aug 20 09:27:50 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|1697|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 09:33:21 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 20 09:33:21 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148061 written 0
+Aug 20 09:33:21 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|148061|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:35:14 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:35:14 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148189
+Aug 20 09:35:14 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|148189|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:37:08 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 20 09:37:08 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148189 written 0
+Aug 20 09:37:08 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|148189|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:38:18 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:38:18 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148190
+Aug 20 09:38:18 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|148190|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:40:56 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 20 09:40:56 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148190 written 0
+Aug 20 09:40:56 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|148190|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:42:04 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:42:04 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148253
+Aug 20 09:42:04 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|148253|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:42:55 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 20 09:42:55 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148253 written 0
+Aug 20 09:42:55 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|148253|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:43:23 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:43:23 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148186
+Aug 20 09:43:23 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|148186|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:43:37 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:43:37 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 2582 written 0
+Aug 20 09:43:37 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|2582|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:45:35 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:45:35 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 0 written 2774
+Aug 20 09:45:35 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|2774|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:45:55 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:45:55 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 2774 written 0
+Aug 20 09:45:55 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|2774|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:46:42 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:46:42 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 0 written 2776
+Aug 20 09:46:42 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|2776|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:46:56 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:46:56 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 2776 written 0
+Aug 20 09:46:56 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|2776|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:47:13 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:47:13 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 0 written 2772
+Aug 20 09:47:13 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|2772|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:47:33 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:47:33 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 2772 written 0
+Aug 20 09:47:33 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|2772|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:48:04 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:48:04 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 0 written 2966
+Aug 20 09:48:04 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|2966|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:48:32 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:48:32 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 2966 written 0
+Aug 20 09:48:32 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|2966|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:49:50 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:49:50 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 0 written 2994
+Aug 20 09:49:50 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|2994|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:50:01 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:50:01 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 2994 written 0
+Aug 20 09:50:01 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|2994|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:50:13 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:50:13 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 0 written 2995
+Aug 20 09:50:13 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|2995|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:50:56 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:50:56 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 2995 written 0
+Aug 20 09:50:56 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|2995|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:51:21 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:51:21 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 0 written 3007
+Aug 20 09:51:21 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|3007|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:51:38 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:51:38 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 3007 written 0
+Aug 20 09:51:38 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|3007|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:51:54 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:51:54 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 0 written 3020
+Aug 20 09:51:54 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|3020|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:52:05 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:52:05 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 3020 written 0
+Aug 20 09:52:05 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|3020|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:52:30 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:52:30 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 0 written 2980
+Aug 20 09:52:30 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|2980|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:52:53 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:52:53 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 2980 written 0
+Aug 20 09:52:53 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|2980|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:53:13 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:53:13 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 0 written 2952
+Aug 20 09:53:13 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|2952|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:53:34 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:53:34 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 2952 written 0
+Aug 20 09:53:34 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|2952|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:54:01 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:54:01 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 0 written 2937
+Aug 20 09:54:01 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|2937|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:54:48 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:54:48 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 2937 written 0
+Aug 20 09:54:48 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|2937|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:55:02 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:55:02 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 0 written 2937
+Aug 20 09:55:02 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|2937|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:57:18 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 20 09:57:18 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148186 written 0
+Aug 20 09:57:18 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|148186|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:57:35 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 09:57:35 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148186
+Aug 20 09:57:35 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|148186|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 09:58:44 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" flags READ mode 0666
+Aug 20 09:58:44 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/js/scriptsAfaep.js" bytes read 2937 written 0
+Aug 20 09:58:44 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|2937|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a732f7363726970747341666165702e6a73|]
+Aug 20 09:59:09 10.71.51.0 tmp94561898-4979 open "/afeap84/libreriasjs/eventos.js" flags READ mode 0666
+Aug 20 09:59:09 10.71.51.0 tmp94561898-4979 close "/afeap84/libreriasjs/eventos.js" bytes read 1697 written 0
+Aug 20 09:59:09 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|1697|0|0|0|2f616665617038342f6c69627265726961736a732f6576656e746f732e6a73|]
+Aug 20 10:00:24 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 20 10:00:24 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148186 written 0
+Aug 20 10:00:24 10.71.51.0 tmp94561898-4979 [10.71.51.0|get|0|148186|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 10:01:54 10.71.51.0 tmp94561898-4979 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 10:01:54 10.71.51.0 tmp94561898-4979 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148230
+Aug 20 10:01:54 10.71.51.0 tmp94561898-4979 [10.71.51.0|put|0|148230|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 11:02:58 10.71.51.0 tmp94561898-4979 session closed for local user tmp94561898-4979 from [10.71.51.0]
+Aug 20 11:02:58 10.71.51.0 tmp94561898-3661 Connection closed by 10.71.51.0
+Aug 20 11:02:58 10.71.51.0 tmp94561898-4979 Connection closed by 10.71.51.0
+Aug 20 15:44:43 10.71.51.0 tmp94561898-8826 Connection from 10.71.51.0 port 30900 on 82.165.80.99 port 22
+Aug 20 15:44:43 10.71.51.0 tmp94561898-8826 Accepted password for tmp94561898-8826 from 10.71.51.0 port 30900 ssh2
+Aug 20 15:44:43 10.71.51.0 tmp94561898-8826 Starting session: subsystem 'sftp' for tmp94561898-8826 from 10.71.51.0 port 30900
+Aug 20 15:44:43 10.71.51.0 tmp94561898-8826 session opened for local user tmp94561898-8826 from [10.71.51.0]
+Aug 20 15:45:08 10.71.51.0 tmp94561898-3573 Connection from 10.71.51.0 port 23954 on 82.165.80.99 port 22
+Aug 20 15:45:08 10.71.51.0 tmp94561898-3573 Accepted password for tmp94561898-3573 from 10.71.51.0 port 23954 ssh2
+Aug 20 15:45:08 10.71.51.0 tmp94561898-8826 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 20 15:45:08 10.71.51.0 tmp94561898-8826 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148230 written 0
+Aug 20 15:45:08 10.71.51.0 tmp94561898-8826 [10.71.51.0|get|0|148230|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 15:46:24 10.71.51.0 tmp94561898-8826 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 15:46:24 10.71.51.0 tmp94561898-8826 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148337
+Aug 20 15:46:24 10.71.51.0 tmp94561898-8826 [10.71.51.0|put|0|148337|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 15:48:06 10.71.51.0 tmp94561898-8826 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 20 15:48:06 10.71.51.0 tmp94561898-8826 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148337 written 0
+Aug 20 15:48:06 10.71.51.0 tmp94561898-8826 [10.71.51.0|get|0|148337|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 15:48:29 10.71.51.0 tmp94561898-8826 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 20 15:48:29 10.71.51.0 tmp94561898-8826 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148355
+Aug 20 15:48:29 10.71.51.0 tmp94561898-8826 [10.71.51.0|put|0|148355|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 20 16:49:11 10.71.51.0 tmp94561898-8826 session closed for local user tmp94561898-8826 from [10.71.51.0]
+Aug 20 16:49:11 10.71.51.0 tmp94561898-8826 Connection closed by 10.71.51.0
+Aug 20 16:49:11 10.71.51.0 tmp94561898-3573 Connection closed by 10.71.51.0
+Aug 21 08:37:06 10.71.51.0 tmp94561898-1651 Connection from 10.71.51.0 port 39678 on 82.165.80.99 port 22
+Aug 21 08:37:06 10.71.51.0 tmp94561898-1651 Accepted password for tmp94561898-1651 from 10.71.51.0 port 39678 ssh2
+Aug 21 08:37:06 10.71.51.0 tmp94561898-1651 Starting session: subsystem 'sftp' for tmp94561898-1651 from 10.71.51.0 port 39678
+Aug 21 08:37:06 10.71.51.0 tmp94561898-1651 session opened for local user tmp94561898-1651 from [10.71.51.0]
+Aug 21 08:37:43 10.71.51.0 tmp94561898-2314 Connection from 10.71.51.0 port 32998 on 82.165.80.99 port 22
+Aug 21 08:37:43 10.71.51.0 tmp94561898-2314 Accepted password for tmp94561898-2314 from 10.71.51.0 port 32998 ssh2
+Aug 21 08:37:43 10.71.51.0 tmp94561898-1651 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 21 08:37:43 10.71.51.0 tmp94561898-1651 close "/afeap84/calendario.php" bytes read 5259 written 0
+Aug 21 08:37:43 10.71.51.0 tmp94561898-1651 [10.71.51.0|get|0|5259|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 21 08:39:20 10.71.51.0 tmp94561898-1651 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 21 08:39:20 10.71.51.0 tmp94561898-1651 close "/afeap84/calendario.php" bytes read 0 written 5243
+Aug 21 08:39:20 10.71.51.0 tmp94561898-1651 [10.71.51.0|put|0|5243|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 21 08:42:36 10.71.51.0 tmp94561898-1651 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 21 08:42:36 10.71.51.0 tmp94561898-1651 close "/afeap84/calendario.php" bytes read 5243 written 0
+Aug 21 08:42:36 10.71.51.0 tmp94561898-1651 [10.71.51.0|get|0|5243|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 21 08:44:35 10.71.51.0 tmp94561898-1651 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 21 08:44:35 10.71.51.0 tmp94561898-1651 close "/afeap84/calendario.php" bytes read 5243 written 0
+Aug 21 08:44:35 10.71.51.0 tmp94561898-1651 [10.71.51.0|get|0|5243|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 21 08:45:28 10.71.51.0 tmp94561898-1651 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 21 08:45:28 10.71.51.0 tmp94561898-1651 close "/afeap84/calendario.php" bytes read 0 written 5259
+Aug 21 08:45:28 10.71.51.0 tmp94561898-1651 [10.71.51.0|put|0|5259|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 21 08:50:18 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 21 08:50:18 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148355 written 0
+Aug 21 08:50:18 10.71.51.0 tmp94561898-1651 [10.71.51.0|get|0|148355|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 08:50:35 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 21 08:50:35 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148450
+Aug 21 08:50:35 10.71.51.0 tmp94561898-1651 [10.71.51.0|put|0|148450|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 08:59:21 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 21 08:59:21 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148450 written 0
+Aug 21 08:59:21 10.71.51.0 tmp94561898-1651 [10.71.51.0|get|0|148450|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:00:19 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 21 09:00:19 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148590
+Aug 21 09:00:19 10.71.51.0 tmp94561898-1651 [10.71.51.0|put|0|148590|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:02:56 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 21 09:02:56 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148590 written 0
+Aug 21 09:02:56 10.71.51.0 tmp94561898-1651 [10.71.51.0|get|0|148590|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:03:23 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 21 09:03:23 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148719
+Aug 21 09:03:23 10.71.51.0 tmp94561898-1651 [10.71.51.0|put|0|148719|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:04:05 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 21 09:04:05 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148719 written 0
+Aug 21 09:04:05 10.71.51.0 tmp94561898-1651 [10.71.51.0|get|0|148719|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:05:18 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 21 09:05:18 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148740
+Aug 21 09:05:18 10.71.51.0 tmp94561898-1651 [10.71.51.0|put|0|148740|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:05:50 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 21 09:05:50 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148740 written 0
+Aug 21 09:05:50 10.71.51.0 tmp94561898-1651 [10.71.51.0|get|0|148740|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:06:28 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 21 09:06:28 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148740
+Aug 21 09:06:28 10.71.51.0 tmp94561898-1651 [10.71.51.0|put|0|148740|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:06:59 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 21 09:06:59 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148740 written 0
+Aug 21 09:06:59 10.71.51.0 tmp94561898-1651 [10.71.51.0|get|0|148740|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:07:38 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 21 09:07:38 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148750
+Aug 21 09:07:38 10.71.51.0 tmp94561898-1651 [10.71.51.0|put|0|148750|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:07:57 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 21 09:07:57 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148750 written 0
+Aug 21 09:07:57 10.71.51.0 tmp94561898-1651 [10.71.51.0|get|0|148750|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:08:14 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 21 09:08:14 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148751
+Aug 21 09:08:14 10.71.51.0 tmp94561898-1651 [10.71.51.0|put|0|148751|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:09:38 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 21 09:09:38 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148751 written 0
+Aug 21 09:09:38 10.71.51.0 tmp94561898-1651 [10.71.51.0|get|0|148751|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:10:12 10.71.51.0 tmp94561898-1651 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 21 09:10:12 10.71.51.0 tmp94561898-1651 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148793
+Aug 21 09:10:12 10.71.51.0 tmp94561898-1651 [10.71.51.0|put|0|148793|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 21 09:16:31 10.71.51.0 u94561898 Connection from 10.71.51.0 port 23478 on 82.165.80.99 port 22
+Aug 21 09:16:41 10.71.51.0 u94561898 Failed password for u94561898 from 10.71.51.0 port 23478 ssh2
+Aug 21 09:16:51 10.71.51.0 u94561898 Failed password for u94561898 from 10.71.51.0 port 23478 ssh2
+Aug 21 09:17:12 10.71.51.0 u94561898 Connection from 10.71.51.0 port 22020 on 82.165.80.99 port 22
+Aug 21 09:17:23 10.71.51.0 u94561898 Failed password for u94561898 from 10.71.51.0 port 22020 ssh2
+Aug 21 09:40:55 10.71.51.0 u94561898 Connection from 10.71.51.0 port 63874 on 82.165.80.99 port 22
+Aug 21 09:41:05 10.71.51.0 u94561898 Failed password for u94561898 from 10.71.51.0 port 63874 ssh2
+Aug 21 09:41:58 10.71.51.0 u94561898 Connection from 10.71.51.0 port 35620 on 82.165.80.99 port 22
+Aug 21 09:42:07 10.71.51.0 u94561898 Failed password for u94561898 from 10.71.51.0 port 35620 ssh2
+Aug 21 09:42:09 10.71.51.0 u94561898 Failed password for u94561898 from 10.71.51.0 port 35620 ssh2
+Aug 21 09:42:10 10.71.51.0 u94561898 Failed password for u94561898 from 10.71.51.0 port 35620 ssh2
+Aug 21 09:44:57 10.71.51.0 u94561898 Connection from 10.71.51.0 port 64350 on 82.165.80.99 port 22
+Aug 21 09:45:17 10.71.51.0 u94561898 Accepted password for u94561898 from 10.71.51.0 port 64350 ssh2
+Aug 21 09:45:51 10.71.51.0 u94561898 Connection closed by 10.71.51.0
+Aug 21 09:47:25 10.71.51.0 u94561898 Connection from 10.71.51.0 port 47896 on 82.165.80.99 port 22
+Aug 21 09:47:40 10.71.51.0 u94561898 Accepted password for u94561898 from 10.71.51.0 port 47896 ssh2
+Aug 21 09:51:15 10.71.51.0 u94561898 Connection closed by 10.71.51.0
+Aug 21 09:55:34 10.71.51.0 u94561898 Connection from 10.71.51.0 port 47524 on 82.165.80.99 port 22
+Aug 21 09:55:51 10.71.51.0 u94561898 Accepted password for u94561898 from 10.71.51.0 port 47524 ssh2
+Aug 21 10:39:12 10.71.51.0 u94561898 Connection closed by 10.71.51.0
+Aug 21 11:34:16 10.71.51.0 tmp94561898-1651 Connection closed by 10.71.51.0
+Aug 21 11:34:16 10.71.51.0 tmp94561898-1651 session closed for local user tmp94561898-1651 from [10.71.51.0]
+Aug 21 11:34:16 10.71.51.0 tmp94561898-2314 Connection closed by 10.71.51.0
+Aug 22 05:23:14 10.71.51.0 tmp94561898-7144 Connection from 10.71.51.0 port 48626 on 82.165.80.99 port 22
+Aug 22 05:23:14 10.71.51.0 tmp94561898-7144 Accepted password for tmp94561898-7144 from 10.71.51.0 port 48626 ssh2
+Aug 22 05:23:14 10.71.51.0 tmp94561898-7144 Starting session: subsystem 'sftp' for tmp94561898-7144 from 10.71.51.0 port 48626
+Aug 22 05:23:14 10.71.51.0 tmp94561898-7144 session opened for local user tmp94561898-7144 from [10.71.51.0]
+Aug 22 05:23:32 10.71.51.0 tmp94561898-7021 Connection from 10.71.51.0 port 61440 on 82.165.80.99 port 22
+Aug 22 05:23:32 10.71.51.0 tmp94561898-7021 Accepted password for tmp94561898-7021 from 10.71.51.0 port 61440 ssh2
+Aug 22 05:23:32 10.71.51.0 tmp94561898-7144 mkdir name "/afeap84/wp-content/themes/travel-insight/juegos" mode 0777
+Aug 22 05:23:32 10.71.51.0 tmp94561898-7144 [10.71.51.0|mkdir|0|0|511|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a7565676f73|]
+Aug 22 05:24:07 10.71.51.0 tmp94561898-7144 open "/afeap84/wp-content/themes/travel-insight/juegos/Lanavemala.jar" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 05:24:07 10.71.51.0 tmp94561898-7144 close "/afeap84/wp-content/themes/travel-insight/juegos/Lanavemala.jar" bytes read 0 written 3074346
+Aug 22 05:24:07 10.71.51.0 tmp94561898-7144 [10.71.51.0|put|0|3074346|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f6a7565676f732f4c616e6176656d616c612e6a6172|]
+Aug 22 06:24:51 10.71.51.0 tmp94561898-7144 Connection closed by 10.71.51.0
+Aug 22 06:24:51 10.71.51.0 tmp94561898-7144 session closed for local user tmp94561898-7144 from [10.71.51.0]
+Aug 22 06:24:51 10.71.51.0 tmp94561898-7021 Connection closed by 10.71.51.0
+Aug 22 08:47:39 10.71.51.0 tmp94561898-6977 Connection from 10.71.51.0 port 46218 on 82.165.80.99 port 22
+Aug 22 08:47:40 10.71.51.0 tmp94561898-6977 Accepted password for tmp94561898-6977 from 10.71.51.0 port 46218 ssh2
+Aug 22 08:47:40 10.71.51.0 tmp94561898-6977 Starting session: subsystem 'sftp' for tmp94561898-6977 from 10.71.51.0 port 46218
+Aug 22 08:47:40 10.71.51.0 tmp94561898-6977 session opened for local user tmp94561898-6977 from [10.71.51.0]
+Aug 22 08:48:35 10.71.51.0 tmp94561898-4758 Connection from 10.71.51.0 port 19086 on 82.165.80.99 port 22
+Aug 22 08:48:36 10.71.51.0 tmp94561898-4758 Accepted password for tmp94561898-4758 from 10.71.51.0 port 19086 ssh2
+Aug 22 08:48:36 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/header.php" flags READ mode 0666
+Aug 22 08:48:36 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/header.php" bytes read 1303 written 0
+Aug 22 08:48:36 10.71.51.0 tmp94561898-6977 [10.71.51.0|get|0|1303|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f6865616465722e706870|]
+Aug 22 08:49:21 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 08:49:21 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/header.php" bytes read 0 written 1375
+Aug 22 08:49:21 10.71.51.0 tmp94561898-6977 [10.71.51.0|put|0|1375|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f6865616465722e706870|]
+Aug 22 08:49:56 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/header.php" flags READ mode 0666
+Aug 22 08:49:56 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/header.php" bytes read 1375 written 0
+Aug 22 08:49:56 10.71.51.0 tmp94561898-6977 [10.71.51.0|get|0|1375|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f6865616465722e706870|]
+Aug 22 08:50:08 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 08:50:08 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/header.php" bytes read 0 written 1377
+Aug 22 08:50:08 10.71.51.0 tmp94561898-6977 [10.71.51.0|put|1|1377|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f6865616465722e706870|]
+Aug 22 08:50:25 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/header.php" flags READ mode 0666
+Aug 22 08:50:25 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/header.php" bytes read 1377 written 0
+Aug 22 08:50:25 10.71.51.0 tmp94561898-6977 [10.71.51.0|get|0|1377|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f6865616465722e706870|]
+Aug 22 08:50:37 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 08:50:37 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/header.php" bytes read 0 written 1311
+Aug 22 08:50:37 10.71.51.0 tmp94561898-6977 [10.71.51.0|put|0|1311|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f6865616465722e706870|]
+Aug 22 08:51:19 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/header.php" flags READ mode 0666
+Aug 22 08:51:19 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/header.php" bytes read 1311 written 0
+Aug 22 08:51:19 10.71.51.0 tmp94561898-6977 [10.71.51.0|get|0|1311|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f6865616465722e706870|]
+Aug 22 08:51:40 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/components/header/custom-header.php" flags READ mode 0666
+Aug 22 08:51:40 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/components/header/custom-header.php" bytes read 386 written 0
+Aug 22 08:51:40 10.71.51.0 tmp94561898-6977 [10.71.51.0|get|0|386|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f6865616465722f637573746f6d2d6865616465722e706870|]
+Aug 22 08:51:56 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/components/header/custom-header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 08:51:56 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/components/header/custom-header.php" bytes read 0 written 459
+Aug 22 08:51:56 10.71.51.0 tmp94561898-6977 [10.71.51.0|put|0|459|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f6865616465722f637573746f6d2d6865616465722e706870|]
+Aug 22 08:52:27 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/components/header/custom-header.php" flags READ mode 0666
+Aug 22 08:52:27 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/components/header/custom-header.php" bytes read 459 written 0
+Aug 22 08:52:27 10.71.51.0 tmp94561898-6977 [10.71.51.0|get|0|459|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f6865616465722f637573746f6d2d6865616465722e706870|]
+Aug 22 08:52:37 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/components/header/custom-header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 08:52:37 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/components/header/custom-header.php" bytes read 0 written 393
+Aug 22 08:52:37 10.71.51.0 tmp94561898-6977 [10.71.51.0|put|0|393|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f6865616465722f637573746f6d2d6865616465722e706870|]
+Aug 22 08:52:44 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/components/header/site-branding.php" flags READ mode 0666
+Aug 22 08:52:44 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/components/header/site-branding.php" bytes read 697 written 0
+Aug 22 08:52:44 10.71.51.0 tmp94561898-6977 [10.71.51.0|get|0|697|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f6865616465722f736974652d6272616e64696e672e706870|]
+Aug 22 08:53:15 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/components/header/site-branding.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 08:53:15 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/components/header/site-branding.php" bytes read 0 written 774
+Aug 22 08:53:15 10.71.51.0 tmp94561898-6977 [10.71.51.0|put|0|774|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f6865616465722f736974652d6272616e64696e672e706870|]
+Aug 22 08:54:07 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/components/header/site-branding.php" flags READ mode 0666
+Aug 22 08:54:07 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/components/header/site-branding.php" bytes read 774 written 0
+Aug 22 08:54:07 10.71.51.0 tmp94561898-6977 [10.71.51.0|get|0|774|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f6865616465722f736974652d6272616e64696e672e706870|]
+Aug 22 08:54:54 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/components/header/site-branding.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 08:54:54 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/components/header/site-branding.php" bytes read 0 written 893
+Aug 22 08:54:54 10.71.51.0 tmp94561898-6977 [10.71.51.0|put|0|893|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f6865616465722f736974652d6272616e64696e672e706870|]
+Aug 22 08:55:03 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/components/header/site-branding.php" flags READ mode 0666
+Aug 22 08:55:03 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/components/header/site-branding.php" bytes read 893 written 0
+Aug 22 08:55:03 10.71.51.0 tmp94561898-6977 [10.71.51.0|get|0|893|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f6865616465722f736974652d6272616e64696e672e706870|]
+Aug 22 08:57:03 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/components/header/site-branding.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 08:57:03 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/components/header/site-branding.php" bytes read 0 written 993
+Aug 22 08:57:03 10.71.51.0 tmp94561898-6977 [10.71.51.0|put|0|993|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f6865616465722f736974652d6272616e64696e672e706870|]
+Aug 22 08:57:23 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/components/header/site-branding.php" flags READ mode 0666
+Aug 22 08:57:23 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/components/header/site-branding.php" bytes read 993 written 0
+Aug 22 08:57:23 10.71.51.0 tmp94561898-6977 [10.71.51.0|get|0|993|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f6865616465722f736974652d6272616e64696e672e706870|]
+Aug 22 08:57:52 10.71.51.0 tmp94561898-6977 open "/wp-content/themes/dara/components/header/site-branding.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 08:57:52 10.71.51.0 tmp94561898-6977 close "/wp-content/themes/dara/components/header/site-branding.php" bytes read 0 written 998
+Aug 22 08:57:52 10.71.51.0 tmp94561898-6977 [10.71.51.0|put|0|998|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f6865616465722f736974652d6272616e64696e672e706870|]
+Aug 22 09:58:27 10.71.51.0 tmp94561898-6977 session closed for local user tmp94561898-6977 from [10.71.51.0]
+Aug 22 09:58:27 10.71.51.0 tmp94561898-4758 Connection closed by 10.71.51.0
+Aug 22 09:58:27 10.71.51.0 tmp94561898-6977 Connection closed by 10.71.51.0
+Aug 22 10:58:07 10.71.51.0 tmp94561898-9148 Connection from 10.71.51.0 port 15138 on 82.165.80.99 port 22
+Aug 22 10:58:07 10.71.51.0 tmp94561898-9148 Accepted password for tmp94561898-9148 from 10.71.51.0 port 15138 ssh2
+Aug 22 10:58:07 10.71.51.0 tmp94561898-9148 Starting session: subsystem 'sftp' for tmp94561898-9148 from 10.71.51.0 port 15138
+Aug 22 10:58:07 10.71.51.0 tmp94561898-9148 session opened for local user tmp94561898-9148 from [10.71.51.0]
+Aug 22 10:58:26 10.71.51.0 tmp94561898-4905 Connection from 10.71.51.0 port 46780 on 82.165.80.99 port 22
+Aug 22 10:58:27 10.71.51.0 tmp94561898-4905 Accepted password for tmp94561898-4905 from 10.71.51.0 port 46780 ssh2
+Aug 22 10:58:27 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 22 10:58:27 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 5259 written 0
+Aug 22 10:58:27 10.71.51.0 tmp94561898-9148 [10.71.51.0|get|0|5259|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 11:08:20 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 22 11:08:20 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 5259 written 0
+Aug 22 11:08:20 10.71.51.0 tmp94561898-9148 [10.71.51.0|get|0|5259|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 11:09:13 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:09:13 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 0 written 2992
+Aug 22 11:09:13 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|2992|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:09:27 10.71.51.0 tmp94561898-9148 open "/afeap84/librerias/funciones.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:09:27 10.71.51.0 tmp94561898-9148 close "/afeap84/librerias/funciones.php" bytes read 0 written 2344
+Aug 22 11:09:27 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|2344|0|0|0|2f616665617038342f6c69627265726961732f66756e63696f6e65732e706870|]
+Aug 22 11:12:33 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:12:33 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 0 written 3095
+Aug 22 11:12:33 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3095|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:14:43 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:14:43 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 0 written 3072
+Aug 22 11:14:43 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3072|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:15:18 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:15:18 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 0 written 3072
+Aug 22 11:15:18 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3072|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:16:01 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:16:01 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 0 written 3073
+Aug 22 11:16:01 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3073|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:17:24 10.71.51.0 tmp94561898-9148 open "/afeap84/wp-admin/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:17:24 10.71.51.0 tmp94561898-9148 close "/afeap84/wp-admin/eventos.php" bytes read 0 written 3072
+Aug 22 11:17:24 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3072|0|0|0|2f616665617038342f77702d61646d696e2f6576656e746f732e706870|]
+Aug 22 11:17:38 10.71.51.0 tmp94561898-9148 open "/afeap84/wp-admin/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:17:38 10.71.51.0 tmp94561898-9148 close "/afeap84/wp-admin/eventos.php" bytes read 0 written 3072
+Aug 22 11:17:38 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3072|0|0|0|2f616665617038342f77702d61646d696e2f6576656e746f732e706870|]
+Aug 22 11:19:00 10.71.51.0 tmp94561898-9148 open "/afeap84/wp-admin/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:19:00 10.71.51.0 tmp94561898-9148 close "/afeap84/wp-admin/eventos.php" bytes read 0 written 3081
+Aug 22 11:19:00 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3081|0|0|0|2f616665617038342f77702d61646d696e2f6576656e746f732e706870|]
+Aug 22 11:19:21 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:19:21 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 0 written 3081
+Aug 22 11:19:21 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3081|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:21:15 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:21:15 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 0 written 3069
+Aug 22 11:21:15 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3069|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:24:38 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:24:38 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 0 written 3272
+Aug 22 11:24:38 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3272|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:25:59 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:25:59 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 0 written 3273
+Aug 22 11:25:59 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3273|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:30:53 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:30:53 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 0 written 3138
+Aug 22 11:30:53 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3138|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:32:42 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:32:42 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 0 written 3380
+Aug 22 11:32:42 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3380|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:35:07 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:35:07 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 0 written 3390
+Aug 22 11:35:07 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3390|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:37:35 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags READ mode 0666
+Aug 22 11:37:35 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 3390 written 0
+Aug 22 11:37:35 10.71.51.0 tmp94561898-9148 [10.71.51.0|get|0|3390|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:37:50 10.71.51.0 tmp94561898-9148 open "/afeap84/eventos.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:37:50 10.71.51.0 tmp94561898-9148 close "/afeap84/eventos.php" bytes read 0 written 3308
+Aug 22 11:37:50 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|3308|0|0|0|2f616665617038342f6576656e746f732e706870|]
+Aug 22 11:44:02 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 22 11:44:02 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 5259 written 0
+Aug 22 11:44:02 10.71.51.0 tmp94561898-9148 [10.71.51.0|get|0|5259|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 11:48:09 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 22 11:48:09 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 5259 written 0
+Aug 22 11:48:09 10.71.51.0 tmp94561898-9148 [10.71.51.0|get|0|5259|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 11:53:21 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:53:21 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 0 written 5479
+Aug 22 11:53:21 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|5479|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 11:53:39 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 22 11:53:39 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 5479 written 0
+Aug 22 11:53:39 10.71.51.0 tmp94561898-9148 [10.71.51.0|get|0|5479|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 11:54:10 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:54:10 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 0 written 5395
+Aug 22 11:54:10 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|5395|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 11:54:52 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 22 11:54:52 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 5395 written 0
+Aug 22 11:54:52 10.71.51.0 tmp94561898-9148 [10.71.51.0|get|0|5395|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 11:56:47 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:56:47 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 0 written 5508
+Aug 22 11:56:47 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|5508|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 11:57:03 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 22 11:57:03 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 5508 written 0
+Aug 22 11:57:03 10.71.51.0 tmp94561898-9148 [10.71.51.0|get|0|5508|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 11:58:18 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 11:58:18 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 0 written 5513
+Aug 22 11:58:18 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|5513|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 11:58:42 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 22 11:58:42 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 5513 written 0
+Aug 22 11:58:42 10.71.51.0 tmp94561898-9148 [10.71.51.0|get|0|5513|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 12:00:51 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 22 12:00:51 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 5513 written 0
+Aug 22 12:00:51 10.71.51.0 tmp94561898-9148 [10.71.51.0|get|0|5513|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 12:02:25 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 12:02:25 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 0 written 6899
+Aug 22 12:02:25 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|6899|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 12:02:47 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 22 12:02:47 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 6899 written 0
+Aug 22 12:02:47 10.71.51.0 tmp94561898-9148 [10.71.51.0|get|0|6899|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 12:03:12 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 12:03:12 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 0 written 6921
+Aug 22 12:03:12 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|6921|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 12:03:49 10.71.51.0 tmp94561898-9148 open "/calendario.php" flags READ mode 0666
+Aug 22 12:03:49 10.71.51.0 tmp94561898-9148 close "/calendario.php" bytes read 5513 written 0
+Aug 22 12:03:49 10.71.51.0 tmp94561898-9148 [10.71.51.0|get|0|5513|0|0|0|2f63616c656e646172696f2e706870|]
+Aug 22 12:05:32 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 12:05:32 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 0 written 7238
+Aug 22 12:05:32 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|7238|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 12:06:00 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 12:06:00 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 0 written 5513
+Aug 22 12:06:00 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|5513|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 12:06:30 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 12:06:30 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 0 written 5512
+Aug 22 12:06:30 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|5512|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 12:08:19 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 12:08:19 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 0 written 5504
+Aug 22 12:08:19 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|5504|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 12:09:23 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags READ mode 0666
+Aug 22 12:09:23 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 5504 written 0
+Aug 22 12:09:23 10.71.51.0 tmp94561898-9148 [10.71.51.0|get|0|5504|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 12:09:42 10.71.51.0 tmp94561898-9148 open "/afeap84/calendario.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 12:09:42 10.71.51.0 tmp94561898-9148 close "/afeap84/calendario.php" bytes read 0 written 5504
+Aug 22 12:09:42 10.71.51.0 tmp94561898-9148 [10.71.51.0|put|0|5504|0|0|0|2f616665617038342f63616c656e646172696f2e706870|]
+Aug 22 13:09:45 10.71.51.0 tmp94561898-9148 session closed for local user tmp94561898-9148 from [10.71.51.0]
+Aug 22 13:09:45 10.71.51.0 tmp94561898-9148 Connection closed by 10.71.51.0
+Aug 22 13:09:45 10.71.51.0 tmp94561898-4905 Connection closed by 10.71.51.0
+Aug 22 14:52:44 10.71.51.0 tmp94561898-805 Connection from 10.71.51.0 port 10228 on 82.165.80.99 port 22
+Aug 22 14:52:44 10.71.51.0 tmp94561898-805 Accepted password for tmp94561898-805 from 10.71.51.0 port 10228 ssh2
+Aug 22 14:52:44 10.71.51.0 tmp94561898-805 Starting session: subsystem 'sftp' for tmp94561898-805 from 10.71.51.0 port 10228
+Aug 22 14:52:44 10.71.51.0 tmp94561898-805 session opened for local user tmp94561898-805 from [10.71.51.0]
+Aug 22 14:53:07 10.71.51.0 tmp94561898-6029 Connection from 10.71.51.0 port 55446 on 82.165.80.99 port 22
+Aug 22 14:53:07 10.71.51.0 tmp94561898-6029 Accepted password for tmp94561898-6029 from 10.71.51.0 port 55446 ssh2
+Aug 22 14:53:07 10.71.51.0 tmp94561898-805 mkdir name "/programas" mode 0777
+Aug 22 14:53:07 10.71.51.0 tmp94561898-805 [10.71.51.0|mkdir|0|0|511|0|0|2f70726f6772616d6173|]
+Aug 22 14:53:26 10.71.51.0 tmp94561898-805 open "/programas/Siglos.zip" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 22 14:53:26 10.71.51.0 tmp94561898-805 close "/programas/Siglos.zip" bytes read 0 written 15171
+Aug 22 14:53:26 10.71.51.0 tmp94561898-805 [10.71.51.0|put|0|15171|0|0|0|2f70726f6772616d61732f5369676c6f732e7a6970|]
+Aug 22 15:53:48 10.71.51.0 tmp94561898-805 session closed for local user tmp94561898-805 from [10.71.51.0]
+Aug 22 15:53:48 10.71.51.0 tmp94561898-805 Connection closed by 10.71.51.0
+Aug 22 15:53:48 10.71.51.0 tmp94561898-6029 Connection closed by 10.71.51.0
+Aug 23 08:40:49 10.71.51.0 tmp94561898-9346 Connection from 10.71.51.0 port 41850 on 82.165.80.99 port 22
+Aug 23 08:40:49 10.71.51.0 tmp94561898-9346 Accepted password for tmp94561898-9346 from 10.71.51.0 port 41850 ssh2
+Aug 23 08:40:49 10.71.51.0 tmp94561898-9346 Starting session: subsystem 'sftp' for tmp94561898-9346 from 10.71.51.0 port 41850
+Aug 23 08:40:49 10.71.51.0 tmp94561898-9346 session opened for local user tmp94561898-9346 from [10.71.51.0]
+Aug 23 08:41:36 10.71.51.0 tmp94561898-9897 Connection from 10.71.51.0 port 50344 on 82.165.80.99 port 22
+Aug 23 08:41:36 10.71.51.0 tmp94561898-9897 Accepted password for tmp94561898-9897 from 10.71.51.0 port 50344 ssh2
+Aug 23 08:41:36 10.71.51.0 tmp94561898-9346 open "/wp-content/themes/dara/footer.php" flags READ mode 0666
+Aug 23 08:41:36 10.71.51.0 tmp94561898-9346 close "/wp-content/themes/dara/footer.php" bytes read 506 written 0
+Aug 23 08:41:36 10.71.51.0 tmp94561898-9346 [10.71.51.0|get|0|506|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f666f6f7465722e706870|]
+Aug 23 08:42:16 10.71.51.0 tmp94561898-9346 open "/wp-content/themes/dara/components/footer/site-info.php" flags READ mode 0666
+Aug 23 08:42:16 10.71.51.0 tmp94561898-9346 close "/wp-content/themes/dara/components/footer/site-info.php" bytes read 446 written 0
+Aug 23 08:42:16 10.71.51.0 tmp94561898-9346 [10.71.51.0|get|0|446|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f666f6f7465722f736974652d696e666f2e706870|]
+Aug 23 08:42:51 10.71.51.0 tmp94561898-9346 open "/wp-content/themes/dara/components/footer/site-info.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 23 08:42:51 10.71.51.0 tmp94561898-9346 close "/wp-content/themes/dara/components/footer/site-info.php" bytes read 0 written 447
+Aug 23 08:42:51 10.71.51.0 tmp94561898-9346 [10.71.51.0|put|0|447|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f666f6f7465722f736974652d696e666f2e706870|]
+Aug 23 08:43:15 10.71.51.0 tmp94561898-9346 open "/wp-content/themes/dara/components/footer/site-info.php" flags READ mode 0666
+Aug 23 08:43:15 10.71.51.0 tmp94561898-9346 close "/wp-content/themes/dara/components/footer/site-info.php" bytes read 447 written 0
+Aug 23 08:43:15 10.71.51.0 tmp94561898-9346 [10.71.51.0|get|0|447|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f666f6f7465722f736974652d696e666f2e706870|]
+Aug 23 08:43:27 10.71.51.0 tmp94561898-9346 open "/wp-content/themes/dara/components/footer/site-info.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 23 08:43:27 10.71.51.0 tmp94561898-9346 close "/wp-content/themes/dara/components/footer/site-info.php" bytes read 0 written 443
+Aug 23 08:43:27 10.71.51.0 tmp94561898-9346 [10.71.51.0|put|0|443|0|0|0|2f77702d636f6e74656e742f7468656d65732f646172612f636f6d706f6e656e74732f666f6f7465722f736974652d696e666f2e706870|]
+Aug 23 09:44:12 10.71.51.0 tmp94561898-9346 session closed for local user tmp94561898-9346 from [10.71.51.0]
+Aug 23 09:44:12 10.71.51.0 tmp94561898-9346 Connection closed by 10.71.51.0
+Aug 23 09:44:12 10.71.51.0 tmp94561898-9897 Connection closed by 10.71.51.0
+Aug 23 15:42:29 10.71.51.0 tmp94561898-8835 Connection from 10.71.51.0 port 21454 on 82.165.80.99 port 22
+Aug 23 15:42:29 10.71.51.0 tmp94561898-8835 Accepted password for tmp94561898-8835 from 10.71.51.0 port 21454 ssh2
+Aug 23 15:42:29 10.71.51.0 tmp94561898-8835 Starting session: subsystem 'sftp' for tmp94561898-8835 from 10.71.51.0 port 21454
+Aug 23 15:42:29 10.71.51.0 tmp94561898-8835 session opened for local user tmp94561898-8835 from [10.71.51.0]
+Aug 23 15:43:19 10.71.51.0 tmp94561898-2053 Connection from 10.71.51.0 port 49500 on 82.165.80.99 port 22
+Aug 23 15:43:19 10.71.51.0 tmp94561898-2053 Accepted password for tmp94561898-2053 from 10.71.51.0 port 49500 ssh2
+Aug 23 15:43:19 10.71.51.0 tmp94561898-8835 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 23 15:43:19 10.71.51.0 tmp94561898-8835 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148793 written 0
+Aug 23 15:43:19 10.71.51.0 tmp94561898-8835 [10.71.51.0|get|0|148793|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 23 15:43:47 10.71.51.0 tmp94561898-8835 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 23 15:43:47 10.71.51.0 tmp94561898-8835 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148794
+Aug 23 15:43:47 10.71.51.0 tmp94561898-8835 [10.71.51.0|put|0|148794|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 23 16:43:52 10.71.51.0 tmp94561898-8835 session closed for local user tmp94561898-8835 from [10.71.51.0]
+Aug 23 16:43:52 10.71.51.0 tmp94561898-2053 Connection closed by 10.71.51.0
+Aug 23 16:43:52 10.71.51.0 tmp94561898-8835 Connection closed by 10.71.51.0
+Aug 23 19:03:08 10.71.51.0 tmp94561898-5423 Connection from 10.71.51.0 port 55448 on 82.165.80.99 port 22
+Aug 23 19:03:08 10.71.51.0 tmp94561898-5423 Accepted password for tmp94561898-5423 from 10.71.51.0 port 55448 ssh2
+Aug 23 19:03:08 10.71.51.0 tmp94561898-5423 Starting session: subsystem 'sftp' for tmp94561898-5423 from 10.71.51.0 port 55448
+Aug 23 19:03:08 10.71.51.0 tmp94561898-5423 session opened for local user tmp94561898-5423 from [10.71.51.0]
+Aug 23 19:03:30 10.71.51.0 tmp94561898-8757 Connection from 10.71.51.0 port 38364 on 82.165.80.99 port 22
+Aug 23 19:03:30 10.71.51.0 tmp94561898-8757 Accepted password for tmp94561898-8757 from 10.71.51.0 port 38364 ssh2
+Aug 23 19:03:30 10.71.51.0 tmp94561898-5423 open "/afeap84/wp-content/themes/poseidon/style.css" flags READ mode 0666
+Aug 23 19:03:30 10.71.51.0 tmp94561898-5423 close "/afeap84/wp-content/themes/poseidon/style.css" bytes read 53191 written 0
+Aug 23 19:03:30 10.71.51.0 tmp94561898-5423 [10.71.51.0|get|0|53191|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f706f736569646f6e2f7374796c652e637373|]
+Aug 23 19:04:22 10.71.51.0 tmp94561898-5423 open "/afeap84/wp-content/themes/poseidon/style.css" flags READ mode 0666
+Aug 23 19:04:22 10.71.51.0 tmp94561898-5423 close "/afeap84/wp-content/themes/poseidon/style.css" bytes read 53191 written 0
+Aug 23 19:04:22 10.71.51.0 tmp94561898-5423 [10.71.51.0|get|0|53191|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f706f736569646f6e2f7374796c652e637373|]
+Aug 23 19:05:10 10.71.51.0 tmp94561898-5423 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 23 19:05:10 10.71.51.0 tmp94561898-5423 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148794 written 0
+Aug 23 19:05:10 10.71.51.0 tmp94561898-5423 [10.71.51.0|get|0|148794|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 23 19:05:38 10.71.51.0 tmp94561898-5423 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 23 19:05:38 10.71.51.0 tmp94561898-5423 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148798
+Aug 23 19:05:38 10.71.51.0 tmp94561898-5423 [10.71.51.0|put|0|148798|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 23 19:13:36 10.71.51.0 tmp94561898-3032 Connection from 10.71.51.0 port 12288 on 82.165.80.99 port 22
+Aug 23 19:13:36 10.71.51.0 tmp94561898-3032 Accepted password for tmp94561898-3032 from 10.71.51.0 port 12288 ssh2
+Aug 23 19:13:36 10.71.51.0 tmp94561898-3032 Starting session: subsystem 'sftp' for tmp94561898-3032 from 10.71.51.0 port 12288
+Aug 23 19:13:36 10.71.51.0 tmp94561898-3032 session opened for local user tmp94561898-3032 from [10.71.51.0]
+Aug 23 19:14:36 10.71.51.0 tmp94561898-3736 Connection from 10.71.51.0 port 48536 on 82.165.80.99 port 22
+Aug 23 19:14:36 10.71.51.0 tmp94561898-3736 Accepted password for tmp94561898-3736 from 10.71.51.0 port 48536 ssh2
+Aug 23 19:14:36 10.71.51.0 tmp94561898-3032 open "/afeap84/wp-content/themes/travel-insight/template-parts/content.php" flags READ mode 0666
+Aug 23 19:14:36 10.71.51.0 tmp94561898-3032 close "/afeap84/wp-content/themes/travel-insight/template-parts/content.php" bytes read 2224 written 0
+Aug 23 19:14:36 10.71.51.0 tmp94561898-3032 [10.71.51.0|get|0|2224|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f74656d706c6174652d70617274732f636f6e74656e742e706870|]
+Aug 23 19:14:56 10.71.51.0 tmp94561898-3032 open "/afeap84/wp-content/themes/travel-insight/template-parts/content.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 23 19:14:56 10.71.51.0 tmp94561898-3032 close "/afeap84/wp-content/themes/travel-insight/template-parts/content.php" bytes read 0 written 2158
+Aug 23 19:14:56 10.71.51.0 tmp94561898-3032 [10.71.51.0|put|0|2158|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f74656d706c6174652d70617274732f636f6e74656e742e706870|]
+Aug 23 19:15:09 10.71.51.0 tmp94561898-3032 open "/afeap84/wp-content/themes/travel-insight/template-parts/content.php" flags READ mode 0666
+Aug 23 19:15:09 10.71.51.0 tmp94561898-3032 close "/afeap84/wp-content/themes/travel-insight/template-parts/content.php" bytes read 2158 written 0
+Aug 23 19:15:09 10.71.51.0 tmp94561898-3032 [10.71.51.0|get|0|2158|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f74656d706c6174652d70617274732f636f6e74656e742e706870|]
+Aug 23 19:15:32 10.71.51.0 tmp94561898-3032 open "/afeap84/wp-content/themes/travel-insight/template-parts/content.php" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 23 19:15:32 10.71.51.0 tmp94561898-3032 close "/afeap84/wp-content/themes/travel-insight/template-parts/content.php" bytes read 0 written 2155
+Aug 23 19:15:32 10.71.51.0 tmp94561898-3032 [10.71.51.0|put|0|2155|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f74656d706c6174652d70617274732f636f6e74656e742e706870|]
+Aug 23 20:06:13 10.71.51.0 tmp94561898-5423 session closed for local user tmp94561898-5423 from [10.71.51.0]
+Aug 23 20:06:13 10.71.51.0 tmp94561898-5423 Connection closed by 10.71.51.0
+Aug 23 20:06:13 10.71.51.0 tmp94561898-8757 Connection closed by 10.71.51.0
+Aug 23 20:16:16 10.71.51.0 tmp94561898-3032 session closed for local user tmp94561898-3032 from [10.71.51.0]
+Aug 23 20:16:16 10.71.51.0 tmp94561898-3736 Connection closed by 10.71.51.0
+Aug 23 20:16:16 10.71.51.0 tmp94561898-3032 Connection closed by 10.71.51.0
+Aug 24 06:45:29 10.71.51.0 tmp94561898-3294 Connection from 10.71.51.0 port 51770 on 82.165.80.99 port 22
+Aug 24 06:45:29 10.71.51.0 tmp94561898-3294 Accepted password for tmp94561898-3294 from 10.71.51.0 port 51770 ssh2
+Aug 24 06:45:29 10.71.51.0 tmp94561898-3294 Starting session: subsystem 'sftp' for tmp94561898-3294 from 10.71.51.0 port 51770
+Aug 24 06:45:29 10.71.51.0 tmp94561898-3294 session opened for local user tmp94561898-3294 from [10.71.51.0]
+Aug 24 06:46:32 10.71.51.0 tmp94561898-1208 Connection from 10.71.51.0 port 54724 on 82.165.80.99 port 22
+Aug 24 06:46:32 10.71.51.0 tmp94561898-1208 Accepted password for tmp94561898-1208 from 10.71.51.0 port 54724 ssh2
+Aug 24 06:46:32 10.71.51.0 tmp94561898-3294 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 24 06:46:32 10.71.51.0 tmp94561898-3294 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148798 written 0
+Aug 24 06:46:32 10.71.51.0 tmp94561898-3294 [10.71.51.0|get|0|148798|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 24 06:47:00 10.71.51.0 tmp94561898-3294 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 24 06:47:00 10.71.51.0 tmp94561898-3294 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148799
+Aug 24 06:47:00 10.71.51.0 tmp94561898-3294 [10.71.51.0|put|0|148799|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 24 07:09:39 10.71.51.0 tmp94561898-3294 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 24 07:09:39 10.71.51.0 tmp94561898-3294 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148799 written 0
+Aug 24 07:09:39 10.71.51.0 tmp94561898-3294 [10.71.51.0|get|0|148799|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 24 07:10:45 10.71.51.0 tmp94561898-3294 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 24 07:10:45 10.71.51.0 tmp94561898-3294 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148837
+Aug 24 07:10:45 10.71.51.0 tmp94561898-3294 [10.71.51.0|put|0|148837|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 24 07:13:38 10.71.51.0 tmp94561898-3294 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 24 07:13:38 10.71.51.0 tmp94561898-3294 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148837 written 0
+Aug 24 07:13:38 10.71.51.0 tmp94561898-3294 [10.71.51.0|get|0|148837|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 24 07:17:34 10.71.51.0 tmp94561898-3294 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 24 07:17:34 10.71.51.0 tmp94561898-3294 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148837
+Aug 24 07:17:34 10.71.51.0 tmp94561898-3294 [10.71.51.0|put|0|148837|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 24 07:21:49 10.71.51.0 tmp94561898-3294 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 24 07:21:49 10.71.51.0 tmp94561898-3294 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148837 written 0
+Aug 24 07:21:49 10.71.51.0 tmp94561898-3294 [10.71.51.0|get|0|148837|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 24 07:22:52 10.71.51.0 tmp94561898-3294 open "/afeap84/wp-content/themes/travel-insight/style.css" flags WRITE,CREATE,TRUNCATE mode 0666
+Aug 24 07:22:52 10.71.51.0 tmp94561898-3294 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 0 written 148903
+Aug 24 07:22:52 10.71.51.0 tmp94561898-3294 [10.71.51.0|put|0|148903|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 24 07:23:39 10.71.51.0 tmp94561898-3294 open "/afeap84/wp-content/themes/travel-insight/style.css" flags READ mode 0666
+Aug 24 07:23:39 10.71.51.0 tmp94561898-3294 close "/afeap84/wp-content/themes/travel-insight/style.css" bytes read 148903 written 0
+Aug 24 07:23:39 10.71.51.0 tmp94561898-3294 [10.71.51.0|get|0|148903|0|0|0|2f616665617038342f77702d636f6e74656e742f7468656d65732f74726176656c2d696e73696768742f7374796c652e637373|]
+Aug 24 07:30:27 10.71.51.0 u94561898 Connection from 10.71.51.0 port 24568 on 82.165.80.99 port 22
+Aug 24 07:30:34 10.71.51.0 u94561898 Accepted password for u94561898 from 10.71.51.0 port 24568 ssh2
